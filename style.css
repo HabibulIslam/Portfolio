@@ -3,6 +3,10 @@
    border: 1px solid black;
 } 
 
+html {
+   height: 100%;
+}
+
 .navbox {
    display: block;
 }
