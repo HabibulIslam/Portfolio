@@ -1,4 +1,28 @@
 * {
    font-family: Arial;
-   /*border: 1px solid white;*/
+   *border: 1px solid white;*
 } 
+
+.navbox {
+   display: block;
+   margin: 0px 0px 2% 0px;
+   padding: 0px;
+   height: 11%;
+   width: 100%;
+   border-bottom: 0.2em solid white;
+   clear: both;
+   background-color: black;
+   z-index: 1;
+}
+
+.centerpiece {
+   display: block;
+   margin: 0px 0px 2% 0px;
+   padding: 0px;
+   height: 11%;
+   width: 100%;
+   border-bottom: 0.2em solid white;
+   clear: both;
+   background-color: black;
+   z-index: 1;
+}
