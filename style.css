@@ -5,14 +5,11 @@
 
 .navbox {
    display: block;
-   margin-left: auto;
-   margin-right: auto;
    text-align: center;
    height: 10%;
 }
 
 .centerpiece {
    display: block;
-   margin-left: auto;
-   margin-right: auto;
+   text-align: center;
 }
